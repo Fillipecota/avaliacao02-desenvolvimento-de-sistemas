@@ -1,0 +1,19 @@
+.ButtonGlobal {
+    padding: 16px 24px;
+    margin-top: 16px;
+    border-radius: 8px;
+    border: none;
+    background-color: #00875f;
+    color: #ffff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.ButtonGlobal .button:not(:disabled):hover {
+    background-color: #00b37e;
+}
+
+.ButtonGlobal .button:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+}
