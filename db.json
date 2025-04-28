@@ -1,28 +1,23 @@
 {
   "itens": [
     {
-      "id": "b0af9b62-bd4b-4b55-98b2-b8d1bba1dbb1",
-      "text": "Arroz",
-      "checked": false
-    },
-    {
-      "id": "c5d0bc3b-fc6e-4f52-95be-f3814ec7b2b8",
-      "text": "Feijão",
-      "checked": true
-    },
-    {
-      "id": "b0d50a18-3121-4b97-9de9-99d6e254c95e",
-      "text": "Carne",
-      "checked": false
-    },
-    {
-      "id": "1eaaedcd-c3b6-4087-9092-370b599d1104",
-      "text": "Tomate",
-      "checked": true
-    },
-    {
       "id": "e35d8b6f-d73b-4fba-88d0-b51b387cbd9d",
       "text": "Alface",
+      "checked": true
+    },
+    {
+      "id": "95c28b88-7a27-499f-955d-950f737dd56c",
+      "text": "tomate",
+      "checked": false
+    },
+    {
+      "id": "31a0fb6d-6b26-40c5-b9e1-cb0a2c002197",
+      "text": "alface",
+      "checked": false
+    },
+    {
+      "id": "c28a7e84-9c45-4d2c-873b-91e129a5dbc0",
+      "text": "cebola",
       "checked": false
     }
   ]
